@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85aab577-e0db-4046-bff2-d44e524dff8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +24,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/L-Jayawardhana/Cloth-Heaven.git&quot;,
-    &quot;accountId&quot;: &quot;c0ffa36b-8454-4b3f-bede-8896c85e3ed7&quot;
+    &quot;url&quot;: &quot;https://github.com/SLIIT-FacultyOfComputing/Cloth-Heaven.git&quot;,
+    &quot;accountId&quot;: &quot;f023feac-b5de-4bb2-826a-ae366e845456&quot;
   }
 }</component>
   <component name="MavenImportPreferences">
@@ -50,9 +49,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lakdinu",
+    "git-widget-placeholder": "jayaru",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lakdi/Desktop/SLIIT/Y2_S1/OOAD",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/cloth-heaven",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +73,12 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="85aab577-e0db-4046-bff2-d44e524dff8f" name="Changes" comment="" />
@@ -88,6 +88,8 @@
       <updated>1755631763866</updated>
       <workItem from="1755631764812" duration="4500000" />
       <workItem from="1755673358547" duration="590000" />
+      <workItem from="1755680747211" duration="61000" />
+      <workItem from="1755680832761" duration="48000" />
     </task>
     <servers />
   </component>
