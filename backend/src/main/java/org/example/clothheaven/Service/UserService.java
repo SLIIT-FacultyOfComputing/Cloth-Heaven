@@ -27,12 +27,12 @@ public class UserService {
     }
 
     @Transactional
-    public UserResponseDTO addUser(UserCreateDTO userCreateDTO) {
-        User user = userMapper.toEntity(userCreateDTO);
+    public UserResponseDTO addUser(UserCreateDTO dto) {
+        User user = userMapper.toEntity(dto);
         User savedUser = userRepository.save(user);
 
         // Automatically create staff record only if the role is STAFF
-        if (userCreateDTO.getRole() == Role.STAFF) {
+        if (dto.getRole() == Role.STAFF) {
             Staff staff = new Staff();
             staff.setUser(savedUser);  // Pass the entire User object
             staffRepository.save(staff);

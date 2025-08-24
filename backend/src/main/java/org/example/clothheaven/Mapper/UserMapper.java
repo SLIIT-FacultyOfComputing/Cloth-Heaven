@@ -8,14 +8,14 @@ import org.springframework.stereotype.Component;
 @Component
 public class UserMapper {
 
-    public User toEntity(UserCreateDTO userCreateDTO) {
-        if (userCreateDTO == null) {
+    public User toEntity(UserCreateDTO dto) {
+        if (dto == null) {
             return null;
         }
 
         User user = new User();
-        user.setUsername(userCreateDTO.getUsername());
-        user.setRole(userCreateDTO.getRole());
+        user.setUsername(dto.getUsername());
+        user.setRole(dto.getRole());
         return user;
     }
 
